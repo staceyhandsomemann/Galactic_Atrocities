@@ -1,0 +1,19 @@
+body {
+	background-color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    color: rgb(0, 255, 0);
+    text-align: center;
+}
+.sentence {
+    color: rgb(0, 255, 0);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+a {
+    text-decoration: inherit;
+    color: inherit;
+    cursor: auto;
+}
